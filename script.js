@@ -1,1 +1,2 @@
-console.log('Hello world');
+alert("Hello world");
+console.log('Вывод в консоль');
