@@ -1,2 +1,2 @@
-const a = 1
-let b = "вторая переменная"
+alert("Hello world");
+console.log('Вывод в консоль');
