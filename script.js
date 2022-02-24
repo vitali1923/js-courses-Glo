@@ -1,2 +1,10 @@
-alert("Hello world");
-console.log('Вывод в консоль');
+let title;
+let screens;
+let screenPrice;
+let rollback;
+let fullPrice;
+let adaptive;
+
+alert('Выпадающее окно');
+
+console.log('Hello world');
